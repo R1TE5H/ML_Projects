@@ -1,3 +1,6 @@
+# Machine Learning Practice
+This is a repository containing projects I have done in Machine Learning to practice and grow my understanding of the field.
+
 # Setting Up Jupyter in VS Code
 1. Download the Jupyter Extension (by Microsoft)
 2. Create a Virtual Environment for the Project
